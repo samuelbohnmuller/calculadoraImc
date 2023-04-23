@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unidades 1 e 2</string>
+    <string name="qual_a_sua_altura_m">Qual a sua altura (m)?</string>
+    <string name="qual_o_seu_peso_kg">Qual o seu peso (kg)?</string>
+    <string name="qual_o_seu_peso_em_quilos">Qual o seu peso em quilos?</string>
+    <string name="qual_a_sua_altura_em_metros">Qual a sua altura em metros?</string>
+    <string name="_1_7">1.7</string>
+    <string name="_75_5">75.5</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="imc">IMC</string>
+    <string name="classifica_o">Classificação</string>
+</resources>
